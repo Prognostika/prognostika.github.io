@@ -19,7 +19,7 @@ const BlogStandard = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Blog Standard || Sinco - Data Science & Analytics React Template</title>
+                    <title>Blog Standard || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 

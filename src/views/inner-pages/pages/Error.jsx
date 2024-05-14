@@ -8,7 +8,7 @@ const Error = () => {
     return (
         <div className="main-page-wrapper">
             <Helmet>
-                <title>Error || Sinco - Data Science & Analytics React Template</title>
+                <title>Error || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
             </Helmet>
             {/* helmet end */}
 

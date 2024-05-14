@@ -30,7 +30,7 @@ const PortfolioSingle = () => {
         onMoveNextRequest={() => setPhotoIndex((photoIndex + 1) % images.length)}/>)}
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Portfolio Single || Sinco - Data Science & Analytics React Template</title>
+                    <title>Portfolio Single || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 

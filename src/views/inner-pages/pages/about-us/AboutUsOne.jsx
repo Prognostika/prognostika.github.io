@@ -21,7 +21,7 @@ const AboutUsOne = () => {
             <div className="main-page-wrapper">
 
                 <Helmet>
-                    <title>About Us One || Sinco - Data Science & Analytics React Template</title>
+                    <title>About Us One || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
 
                 <TopNavOne/> {/* theme-menu-one */}
@@ -220,7 +220,7 @@ const AboutUsOne = () => {
                                         <a href="contact-us.html">Contact Us</a>
                                     </li>
                                 </ul>
-                                <p className="copyright text-center order-lg-0 pb-15">Copyright @2022 sinco inc.</p>
+                                <p className="copyright text-center order-lg-0 pb-15">Copyright @2024 Prognostika</p>
                             </div>
                         </div>
                     </div>

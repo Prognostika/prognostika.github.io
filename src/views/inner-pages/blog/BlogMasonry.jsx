@@ -20,7 +20,7 @@ const BlogMasonry = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Blog Masonry || Sinco - Data Science & Analytics React Template</title>
+                    <title>Blog Masonry || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 

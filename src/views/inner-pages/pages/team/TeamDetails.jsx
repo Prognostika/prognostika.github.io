@@ -13,7 +13,7 @@ const TeamDetails = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Team Details V1 || Sinco - Data Science & Analytics React Template</title>
+                    <title>Team Details V1 || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 

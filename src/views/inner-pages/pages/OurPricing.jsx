@@ -14,7 +14,7 @@ const OurPricing = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Our Pricing || Sinco - Data Science & Analytics React Template</title>
+                    <title>Our Pricing || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 

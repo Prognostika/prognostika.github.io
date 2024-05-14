@@ -21,7 +21,7 @@ const MachineLearning = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Machine Learning || Sinco - Data Science & Analytics React Template</title>
+                    <title>Machine Learning || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helemet end */}
 

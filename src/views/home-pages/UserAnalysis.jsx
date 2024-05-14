@@ -25,7 +25,7 @@ const UserAnalysis = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>User Analysis || Sinco - Data Science & Analytics React Template</title>
+                    <title>User Analysis || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 

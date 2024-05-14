@@ -22,7 +22,7 @@ const ArtificialIntelligence = () => {
     return (
         <div className="main-page-wrapper">
             <Helmet>
-                <title>Artificial Intelligence || Sinco - Data Science & Analytics React Template</title>
+                <title>Artificial Intelligence || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
             </Helmet>
             <TopNavTwo/> 
             {/* /.theme-main-one */}

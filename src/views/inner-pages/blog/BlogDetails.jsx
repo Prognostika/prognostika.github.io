@@ -21,7 +21,7 @@ const BlogDetails = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Blog Details || Sinco - Data Science & Analytics React Template</title>
+                    <title>Blog Details || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 

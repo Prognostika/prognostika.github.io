@@ -23,11 +23,11 @@ function App() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="keywords" content="Data Science, Analytics, Data, sass, software company" />
         <meta name="description"
-          content="Sinco - Data Science & Analytics React Template is designed especially for the agency, multipurpose and business and those who offer business-related services." />
+          content="Prognostika - The 1st AI-Powered Hard Drive Health Prediction System is designed especially for the datacenter and enterprise storage environments to predict hard drive failures before they happen." />
         <meta property="og:site_name" content="Sinco" />
         <meta property="og:url" content="https://themeforest.net/user/creativegigs" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Sinco - Data Science & Analytics React Template" />
+        <meta property="og:title" content="Prognostika - The 1st AI-Powered Hard Drive Health Prediction System" />
       </Helmet>
       {/* {End Seo Helmet}
        */}
