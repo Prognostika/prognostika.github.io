@@ -1,7 +1,7 @@
 import React, {Fragment, useState} from 'react';
 import {Link} from 'react-router-dom';
-import Lightbox from 'react-image-lightbox';
-import 'react-image-lightbox/style.css';
+import Lightbox from 'yet-another-react-lightbox';
+//import 'yet-another-react-lightbox/dist/styles.css';
 
 const PortfolioContent = [
     {

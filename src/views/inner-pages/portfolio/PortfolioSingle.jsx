@@ -1,7 +1,7 @@
 import React, {Fragment, useState} from 'react';
 import {Helmet} from 'react-helmet';
-import Lightbox from 'react-image-lightbox';
-import 'react-image-lightbox/style.css';
+import Lightbox from 'yet-another-react-lightbox';
+//import 'yet-another-react-lightbox/dist/styles.css';
 
 
 import TopNavFour from '../../../components/header/TopNavFour';
