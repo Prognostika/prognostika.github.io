@@ -4,20 +4,20 @@ const ProcessContent = [
     {
         num: 1,
         className: 'numb tran3s',
-        heading: 'Frame the Problem',
-        desc: 'Learn content by interacting with an expert lesson or watching a video.',
+        heading: 'Collect the S.M.A.R.T. Data',
+        desc: 'Collect various S.M.A.R.T. disk features from your hard drives in the background.',
         dataDelay: ''
     }, {
         num: 2,
         className: 'numb tran3s',
-        heading: 'Collect the Data',
-        desc: 'Practice what you learned on realistic SAT test questions.',
+        heading: 'Analyze the Data',
+        desc: 'Analyze the collected data using our pre-trained AI models to predict disk health.',
         dataDelay: '50'
     }, {
         num: 3,
         className: 'numb tran3s',
-        heading: 'Process the Data',
-        desc: 'Have to be repudiated annoyances accepted the wise lorem ispum sample text.',
+        heading: 'Display the Result',
+        desc: 'Display the S.M.A.R.T. attributes and prediction results on the dashboard for your review and action.',
         dataDelay: '100'
     }
 ]
@@ -28,7 +28,7 @@ const FancyFeatureNineteen = () => {
             <div className="block-style-thirteen" data-aos="fade-right">
                 <div className="title-style-three pb-15">
                     <div className="sc-title">WORK PROCESS</div>
-                    <h2 className="main-title">How sinco <span>process</span> & works.</h2>
+                    <h2 className="main-title">How it <span>process</span> & works.</h2>
                 </div>
                 {/* /.title-style-three */}
                 <ul className="style-none list-item">

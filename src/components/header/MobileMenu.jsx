@@ -13,7 +13,7 @@ import 'react-pro-sidebar/dist/css/styles.css';
 
 const HomeMenu =[
   {
-    name: 'User Analysis',
+    name: 'Main Page',
     routerPath: '/'
   },
   {

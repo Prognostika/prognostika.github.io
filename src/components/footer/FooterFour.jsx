@@ -73,8 +73,7 @@ const FooterFour = () => {
                     <div className="logo">
                         <Link to="/"><img src="images/logo/logo_01.png" alt="" width={130}/></Link>
                     </div>
-                    <p>In this class, you will learn about the most effective machine learning
-                        techniques, and gain practice implementing them.</p>
+                    <p>Prognostika provides advanced, secure hard drive health prediction, essential for proactive data management and reducing data loss risk.</p>
                     <ul className="d-flex social-icon style-none">
                         {SocialContent.map((val, i) => (
                             <li key={i}>

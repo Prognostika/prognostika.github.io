@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import { Routes, Route } from "react-router-dom";
 
 
-//All Home Page Routes
+// TODO: All Home Page Routes
 import UserAnalysis from '../views/home-pages/UserAnalysis';
 import ArtificialIntelligence from '../views/home-pages/ArtificialIntelligence';
 import DataScience from '../views/home-pages/DataScience';

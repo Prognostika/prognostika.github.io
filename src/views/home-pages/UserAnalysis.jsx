@@ -25,7 +25,7 @@ const UserAnalysis = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>User Analysis || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
+                    <title>Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 
@@ -47,9 +47,8 @@ const UserAnalysis = () => {
                                 {/* /.title-style-three */}
                             </div>
                             <div className="col-xl-6 col-lg-7" data-aos="fade-left">
-                                <p className="m0 text-center text-lg-start md-pt-30">NLP entails applying
-                                    algorithms to identify and extract rules such that the unstructured language
-                                    data is converted.</p>
+                                <p className="m0 text-center text-lg-start md-pt-30">
+                                    Using advanced artificial neural networks, our prediction system analyzes disk health, identifies patterns, and predicts imminent disk failures, thereby enhancing data security.</p>
                             </div>
                         </div>
                         <FancyFeatureSeventeen/>

@@ -21,7 +21,7 @@ function App() {
 
       <Helmet>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="keywords" content="Data Science, Analytics, Data, sass, software company" />
+        <meta name="keywords" content="Data Science, Analytics, Data, sass, hard drive prediction, software company" />
         <meta name="description"
           content="Prognostika - The 1st AI-Powered Hard Drive Health Prediction System is designed especially for the datacenter and enterprise storage environments to predict hard drive failures before they happen." />
         <meta property="og:site_name" content="Prognostika" />

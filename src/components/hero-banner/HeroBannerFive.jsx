@@ -14,8 +14,8 @@ const HeroBannerFive = () => {
                 <div className="container">
                     <div className="row">
                         <div className="col-xxl-6 col-md-7">
-                            <h1 className="hero-heading">Customer Ai Solution for user <span>Analystics.</span></h1>
-                            <p className="text-lg mb-50 pt-40 pe-xl-5 md-pt-30 md-mb-40">Sinco delivered blazing fast, striking ai solution lorem quis data user learning analysis.</p>
+                            <h1 className="hero-heading">The 1st AI-Powered Hard Drive <span>Health Prediction System</span></h1>
+                            <p className="text-lg mb-50 pt-40 pe-xl-5 md-pt-30 md-mb-40">Prognostika provides advanced, secure hard drive health prediction, essential for proactive data management and reducing data loss risk.</p>
                             <ul className="style-none button-group d-flex align-items-center">
                                 <li className="me-4"><a href="contact-us.html" className="demo-btn ripple-btn tran3s">Request A Demo</a></li>
                                 <li><a className="fancybox video-icon tran3s" data-fancybox href="#" onClick={OpenModal} ><i className="fas fa-play" /></a></li>

@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom';
 
 const HomeMenu = [
     {
-        name: 'User Analysis',
+        name: 'Main Page',
         routerPath: '/'
     }, {
         name: 'Artificial Intelligence',

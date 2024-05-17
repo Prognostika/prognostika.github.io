@@ -5,24 +5,24 @@ import VisibilitySensor from 'react-visibility-sensor';
 const CountContent = [
     {
         mark: '',
-        num: 20,
-        text: 'mil',
-        desc: 'Human labor hours saved',
-        desc2: 'with help of AI',
+        num: 500,
+        text: 'k+',
+        desc: 'Predicted disk failures',
+        desc2: 'with our AI system',
     },
     {
         mark: '',
-        num: 1.3,
-        text: 'b+',
-        desc: 'Generated revenue by',
-        desc2: 'AI Solutions',
+        num: 1.5,
+        text: 'mil+',
+        desc: 'Data loss incidents prevented by',
+        desc2: 'our predictions',
     },
     {
         mark: '$',
-        num: 15,
+        num: 20,
         text: 'mil+',
-        desc: 'Saved operational costs',
-        desc2: 'due to AI',
+        desc: 'Saved in data recovery costs',
+        desc2: 'thanks to early predictions',
     }
 ]
 

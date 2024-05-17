@@ -4,24 +4,24 @@ import { Link } from 'react-router-dom'
 const ServiceContent = [
     {
         icon: "icon_31",
-        title: 'Data Science',
-        desc: `Convert data noise intelligent insights for competitive differentiation qulaity check equlity.`,
+        title: 'Weighted Impact Analysis',
+        desc: `Sets weights according to each attribute's impact, addressing data imbalance and automatically choose the most relevant features for prediction.`,
         arrow: 'icon_20',
         datadelay: '',
         dataAos: 'fade-right',
         className: ''
     }, {
         icon: "icon_32",
-        title: 'Data Science',
-        desc: `Convert data noise intelligent insights for competitive differentiation qulaity check equlity.`,
+        title: 'Genetic Algorithm',
+        desc: `Uses Genetic Algorithm to select the most relevant features for prediction based on the statistical specification of the data.`,
         arrow: 'icon_20',
         datadelay: '100',
         dataAos: 'fade-up',
         className: 'active'
     }, {
         icon: "icon_33",
-        title: 'Data Science',
-        desc: `Convert data noise intelligent insights for competitive differentiation qulaity check equlity.`,
+        title: 'Advanced AI Algorithms',
+        desc: `Utilizes TCN (Temporal Convolutional Network) for incremental iterative training and dataset verification.`,
         arrow: 'icon_20',
         dataDelay: '',
         dataAos: 'fade-left',

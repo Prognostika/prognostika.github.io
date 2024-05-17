@@ -13,9 +13,8 @@ const Contact = () => {
                                     <h2 className="main-title">Get Ready to Started. It’s Fast &amp; Easy.</h2>
                                 </div>
                                 {/* /.title-style-three */}
-                                <p className="pt-20 pb-15">Lorem ipsum dolor sit amet, consectetur adipiscing
-                                    elit, sed eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut quis
-                                    nostrud ullamco laboris nisi.</p>
+                                <p className="pt-20 pb-15">
+                                    Reach out to us for any inquiries related to our advanced disk health prediction system. We're here to help ensure your data's safety!</p>
                                 <a href="contact-us.html" className="btn-eight ripple-btn">Send Message</a>
                             </div>
                             {/* /.block-style-five */}

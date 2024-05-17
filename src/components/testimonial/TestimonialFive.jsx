@@ -6,19 +6,21 @@ import Slider from 'react-slick';
 const TestimonialContent = [
     {
         img: 'icon_34',
-        desc: `Having a home based business is a wonderful asset to your life. The problem still stands it comes timeadvertise your business for a cheap cost. I know you have looked answer everywhere.`,
+        desc: `Our data center operations have improved dramatically since we started using this predictive maintenance solution. It's incredibly efficient at identifying potential hard disk failures early, saving us from unexpected downtimes.`,
         name: 'Hasan Mahmud',
-        desig: 'React Developer'
-    }, {
+        desig: 'IT Infrastructure Manager'
+    }, 
+    {
         img: 'icon_34',
-        desc: `Having a home based business is a wonderful asset to your life. The problem still stands it comes timeadvertise your business for a cheap cost. I know you have looked answer everywhere.`,
+        desc: `Thanks to this solution, we can now predict hard drive issues with remarkable accuracy. It has enabled us to replace failing drives before they cause any disruptions, maintaining smooth and reliable service.`,
         name: 'Rashed Kabir',
-        desig: 'Designer'
-    }, {
+        desig: 'Data Center Engineer'
+    }, 
+    {
         img: 'icon_34',
-        desc: `Having a home based business is a wonderful asset to your life. The problem still stands it comes timeadvertise your business for a cheap cost. I know you have looked answer everywhere.`,
+        desc: `Integrating this tool into our systems was straightforward and the impact has been significant. We've seen a noticeable drop in false alarms, which means we can dedicate our resources to addressing real problems more effectively.`,
         name: 'Zubayer Hasan',
-        desig: 'Sr. Frontend Developer'
+        desig: 'Sr. Systems Administrator'
     }
 ]
 

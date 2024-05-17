@@ -11,15 +11,14 @@ const About = () => {
                             <div className="block-style-two" data-aos="fade-left">
                                 <div className="title-style-three">
                                     <div className="sc-title">Over 150k+ Client</div>
-                                    <h2 className="main-title">Target <span>Audience</span> for your business.</h2>
+                                    <h2 className="main-title">Target <span>Prediction</span> for your disk health.</h2>
                                 </div>
                                 {/* /.title-style-three */}
-                                <p className="pt-20 pb-25 lg-pb-20">AI technology is perfect for best business
-                                    solutions &amp; we offer help to achieve your goals.</p>
+                                <p className="pt-20 pb-25 lg-pb-20">Our AI technology provides advanced predictions for hard drive health.</p>
                                 <ul className="style-none list-item color-rev">
-                                    <li>Various analysis options.</li>
-                                    <li>Page Load (time, size, number of requests).</li>
-                                    <li>Advance Data analysis operation.</li>
+                                    <li>Uses S.M.A.R.T. disk features for accurate predictions.</li>
+                                    <li>Applies advanced AI algorithms for iterative training.</li>
+                                    <li>Enhances data security by predicting imminent disk failures.</li>
                                 </ul>
                                 <a href="about-us2.html" className="btn-eight mt-50 lg-mt-30">More about us</a>
                             </div>
