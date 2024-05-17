@@ -4,19 +4,19 @@ import { Link } from 'react-router-dom';
 const BlockContent15 = [
     {
         icon: 'icon_39',
-        text: 'C++ Coding',
+        text: 'Predictive Maintenance',
         fadeUp: 'fade-up',
         dataDelay: ''
     },
     {
         icon: 'icon_37',
-        text: 'AI Technology',
+        text: 'Machine Learning',
         fadeUp: 'fade-up',
         dataDelay: '100',
     },
     {
         icon: 'icon_38',
-        text: 'Auto Algorithm',
+        text: 'Data Analysis',
         fadeUp: 'fade-up',
         dataDelay: '200',
     },

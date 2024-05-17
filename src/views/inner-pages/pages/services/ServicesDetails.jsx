@@ -42,16 +42,15 @@ const ServicesDetails = () => {
                         <div className="row">
                             <div className="col-xl-9 col-lg-8 order-lg-1">
                                 <div className="service-details-meta ps-lg-5 ms-xxl-4">
-                                    <h2 className="main-title">Delivering the insights you to help business growth</h2>
-                                    <p>To take a trivial example, which of us ever under- takes laborious physical
-                                        exercise, except to obtain some advantage from it but who has any right find
-                                        fault with a man who chooses to enjoy a get pleasure that annoying. Undertakes
-                                        laborious physical exercise, except to obtain some advantage from it but who has
-                                        any find fault with a man who chooses.</p>
+                                    <h2 className="main-title">Delivering Insights for Reliable Data Center Operations</h2>
+                                    <p>In modern data centers, storage system failures are a major contributor to downtimes and maintenance costs. 
+                                        Our solution leverages advanced machine learning techniques to predict hard disk failures, enabling timely maintenance and significantly reducing their impact. 
+                                        By predicting failures before they occur, we ensure smooth and efficient operations.</p>
                                     <img src="images/media/img_13.jpg" alt="" className="main-img-meta"/>
                                     <h3 className="sub-title">Technology we use</h3>
-                                    <p>Evernote Web offers a complete lineup of features from any major Maecena quis
-                                        interdum, orci at euis dapibus, mass ante pharetra tellus done.</p>
+                                    <p>We utilize cutting-edge machine learning models to analyze time series data from hard disks. 
+                                        Our approach focuses on efficiency and accuracy, significantly outperforming traditional methods in predicting failures. 
+                                        The technology we employ is designed to handle large-scale data and provide precise insights for proactive maintenance.</p>
                                     <div>
                                         <BlockStyle15/>
                                     </div>
@@ -60,16 +59,17 @@ const ServicesDetails = () => {
                                             <div className="col-lg-6">
                                                 <h3 className="sub-title">Our Goal</h3>
                                                 <ul className="style-none list-item md-mb-40">
-                                                    <li>Various analysis options.</li>
-                                                    <li>Page Load (time, number of requests).</li>
-                                                    <li>Big data analysis.</li>
-                                                    <li>Lorem analysis somthing</li>
+                                                    <li>Enhance fault detection rate while minimizing false alarms.</li>
+                                                    <li>Utilize long-term historical data for accurate predictions.</li>
+                                                    <li>Implement advanced re-sampling techniques to manage class imbalance.</li>
+                                                    <li>Provide scalable and efficient solutions for large data centers.</li>
                                                 </ul>
                                             </div>
                                             <div className="col-lg-6">
                                                 <h3 className="sub-title">The Challange</h3>
-                                                <p>Evernote Web offers a complete lineup of features from any major Maecena quis
-                                                    interdum, orci at euis dapibus, mass ante pharetra tellus done.</p>
+                                                <p>The primary challenge in predictive maintenance is handling the significant imbalance between failed and non-failed disk data. 
+                                                    Our solution addresses this by employing the Synthetic Minority Over-sampling Technique (SMOTE), which balances the dataset and improves model performance. 
+                                                    By leveraging this technique, we achieve higher accuracy in failure predictions and reduce the likelihood of unexpected downtimes.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -80,15 +80,15 @@ const ServicesDetails = () => {
                                                     <div className="d-flex align-items-center">
                                                         <div className="text">
                                                             <h6>Success Ratio</h6>
-                                                            <p>We’re best for our success work ration.</p>
+                                                            <p>Our solution accurately predicts hard disk failures, ensuring timely interventions and reducing downtime.</p>
                                                             <a href="#" className="details-btn">Details</a>
                                                         </div>
                                                         {/* /.text */}
-                                                        <div className="circle_percent" data-percent={86}>
+                                                        <div className="circle_percent" data-percent={89}>
                                                             <div className="circle_inners position-relative">
                                                                 {/* <div className="round_per"/>
                                                                  */}
-                                                                <CircularProgress number="86"/>
+                                                                <CircularProgress number="89"/>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -100,14 +100,14 @@ const ServicesDetails = () => {
                                                     <div className="d-flex">
                                                         <div className="text">
                                                             <h6>Failure Ratio</h6>
-                                                            <p>We’ve very low failur ratio in our work history.</p>
+                                                            <p>We keep a low false alarm rate, minimizing unnecessary maintenance actions and focusing on real issues.</p>
                                                             <a href="#" className="details-btn">Details</a>
                                                         </div>
                                                         {/* /.text */}
-                                                        <div className="circle_percent">
+                                                        <div className="circle_percent" data-percent={5}>
                                                             <div className="circle_inners position-relative">
                                                                 {/* <div className="round_per"/> */}
-                                                                <CircularProgress number="44"/>
+                                                                <CircularProgress number="5"/>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -116,10 +116,9 @@ const ServicesDetails = () => {
                                             </div>
                                         </div>
                                     </div>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum,
-                                        orci at dapibus, massa ante pharetra tellus. Maecenas interdum, orci at euismod
-                                        dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-                                        interdum.</p>
+                                    <p>Our project leverages advanced machine learning to efficiently and accurately predict hard disk failures in large-scale data centers. 
+                                        By improving fault detection rates and minimizing false alarms using techniques like SMOTE, we address data imbalance challenges and ensure timely interventions. 
+                                        With an 89% success rate and a low 5% false alarm rate, our solution reduces downtime and enhances data center reliability and efficiency.</p>
                                 </div>
                                 {/* /.service-details-meta */}
                             </div>
@@ -156,10 +155,9 @@ const ServicesDetails = () => {
                                             <li><i className="bi bi-star-fill"/></li>
                                             <li><i className="bi bi-star-fill"/></li>
                                         </ul>
-                                        <p>They not only understand what I say but read between the lines and also give
-                                            me ideas of my own.</p>
+                                        <p>They understand our needs thoroughly and provide valuable insights that have helped us improve our processes.</p>
                                         <div className="name">Rashed Kabir,
-                                            <span>Designer</span>
+                                            <span>Data Center Engineer</span>
                                         </div>
                                     </div>
                                     {/* /.sidebar-quote */}
