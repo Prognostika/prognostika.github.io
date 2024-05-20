@@ -23,7 +23,7 @@ const ServicesOne = () => {
                 <TopNavFour/> {/* theme-menu-four */}
 
                 <div className="theme-inner-banner">
-                    <InnerBanner intro="Our Services" currpage="Services"/>
+                    <InnerBanner intro="Key Benefits" currpage="Key Benefits"/>
                     <img src="images/shape/shape_38.svg" alt="" className="shapes shape-one"/>
                     <img src="images/shape/shape_39.svg" alt="" className="shapes shape-two"/>
                 </div>

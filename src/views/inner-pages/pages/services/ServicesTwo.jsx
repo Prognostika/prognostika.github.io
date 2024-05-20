@@ -23,7 +23,7 @@ const ServicesTwo = () => {
                 <TopNavFour/> {/* theme-menu-four */}
 
                 <div className="theme-inner-banner">
-                    <InnerBanner intro="Our Services" currpage="Services"/>
+                    <InnerBanner intro="Performance Metrics" currpage="Performance Metrics"/>
                     <img src="images/assets/ils_20.svg" alt="" className="shapes illustration-two"/>
                 </div>
                 {/* /.theme-inner-banner */}

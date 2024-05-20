@@ -31,7 +31,7 @@ const ContactThree = () => {
                         <h5 className="title">Live Support</h5>
                         <p>live chat service
                             <br/>
-                            <a href="#" className="webaddress">www.sincochat.com</a>
+                            <a href="https://chat.prognostika.com" className="webaddress">chat.prognostika.com</a>
                         </p>
                     </div>
                     {/* /.address-block-two */}

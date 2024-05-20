@@ -23,13 +23,13 @@ const ServicesDetails = () => {
 
                 <div className="theme-inner-banner">
                     <div className="container">
-                        <h2 className="intro-title">Machine <span>Learning</span>
+                        <h2 className="intro-title">Project <span>Outcomes</span>
                         </h2>
                         <ul className="page-breadcrumb style-none d-flex">
                             <li>
                                 <Link to="/">Home</Link>
                             </li>
-                            <li className="current-page">Service Details</li>
+                            <li className="current-page">Project Outcomes</li>
                         </ul>
                     </div>
                     <img src="images/assets/ils_20.svg" alt="" className="shapes illustration-two"/>

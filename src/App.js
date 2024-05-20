@@ -25,7 +25,7 @@ function App() {
         <meta name="description"
           content="Prognostika - The 1st AI-Powered Hard Drive Health Prediction System is designed especially for the datacenter and enterprise storage environments to predict hard drive failures before they happen." />
         <meta property="og:site_name" content="Prognostika" />
-        <meta property="og:url" content="https://prognostika.github.io" />
+        <meta property="og:url" content="https://prognostika.cloud" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Prognostika - The 1st AI-Powered Hard Drive Health Prediction System" />
       </Helmet>
