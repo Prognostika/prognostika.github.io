@@ -18,7 +18,7 @@ const CopyRightFour = () => {
                     </li>
                 </ul>
                 <p className="copyright text-center order-lg-0 pb-15">Copyright @{new Date().getFullYear()}{" "}
-                    Prognostika. All rights reserved.</p>
+                    <a href="https://www.prognostika.cloud" target="_blank" rel="noopener noreferrer">Prognostika</a>. &nbsp;&nbsp;&nbsp;&nbsp;All rights reserved.</p>
             </div>
         </Fragment>
     )

@@ -3,18 +3,17 @@ import React, {Fragment} from 'react';
 const VisionContent = [
     {
         title: 'Our History',
-        desc: `Convert data noise to intelligent insights for competitive differention
-        qulaity check.`,
+        desc: `Prognostika has a rich history of innovation in predictive maintenance, leveraging advanced AI and machine learning to transform data into actionable insights, ensuring the highest quality and reliability for our clients.`,
         fade: 'fade-up',
         dataDelay: ''
     }, {
         title: 'Our Mission',
-        desc: `Except to obtain some advantage from it? But who has any right to find fault with a consequences for competitive differention qulaity.`,
+        desc: `Our mission is to provide unparalleled predictive analytics solutions that enhance data security and operational efficiency, empowering businesses to proactively manage their data centers and minimize downtime.`,
         fade: 'fade-up',
         dataDelay: '100'
     }, {
-        title: 'Our Vission',
-        desc: `Except to obtain some advantage from it? But who has any right to find fault with a consequences data noise to intelligent insights.`,
+        title: 'Our Vision',
+        desc: `Our vision is to lead the industry in predictive maintenance technology, continuously evolving our AI-driven solutions to adapt to changing data environments and ensure seamless, reliable operations for all our clients.`,
         fade: 'fade-up',
         dataDelay: '200'
     }

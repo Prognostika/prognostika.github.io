@@ -13,9 +13,8 @@ const ContactTwo = () => {
                             <h2 className="main-title">Get Ready to <span>Started.</span> It’s Fast &amp; Easy.</h2>
                         </div>
                         {/* /.title-style-three */}
-                        <p className="pt-20 pb-30" data-aos="fade-up" data-aos-delay={80}>Lorem ipsum
-                            dolor sit amet, consectetur adipiscing elit, sed eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut quis nostrud ullamco laboris nisi.</p>
+                        <p className="pt-20 pb-30" data-aos="fade-up" data-aos-delay={80}>
+                            Reach out to us for any inquiries or support. Our team is here to assist you with advanced AI solutions for your data management needs. We are committed to providing fast and efficient service to help you achieve your business goals.</p>
                         <Link
                             to="/contact"
                             className="btn-eight"

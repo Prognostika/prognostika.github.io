@@ -65,7 +65,7 @@ const FooterTwo = () => {
                     <div className="logo">
                         <Link to="/"><img src="images/logo/logo_01.png" alt="" width={130}/></Link>
                     </div>
-                    <p>We will assist you in becoming more successful.</p>
+                    <p>Prognostika provides advanced, secure hard drive health prediction, essential for proactive data management and reducing data loss risk.</p>
                     <ul className="d-flex social-icon style-none">
                         {SocialContent.map((val, i)=>(
                             <li key={i}>

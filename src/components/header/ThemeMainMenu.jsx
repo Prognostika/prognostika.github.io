@@ -177,6 +177,9 @@ const ThemeMainMenu = () => {
                         ))}
                     </ul>
                 </li>
+                <li className="nav-item">
+                    <a className="nav-link" href="https://docs.prognostika.cloud" target="_blank" rel="noopener noreferrer">Documentation</a>
+                </li>
                 <li className="nav-item dropdown">
                     <a className="nav-link dropdown-toggle" href="#">Portfolio</a>
                     <ul className="dropdown-menu">
