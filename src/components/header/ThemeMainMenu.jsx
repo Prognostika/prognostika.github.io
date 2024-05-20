@@ -32,13 +32,13 @@ const AboutMenu = [
 
 const ServiceMenu = [
     {
-        name: 'Service One',
+        name: 'Key Benefits',
         routerPath: '/service-one'
     }, {
-        name: 'Service Two',
+        name: 'Performance Metrics',
         routerPath: '/service-two'
     }, {
-        name: 'Service Details',
+        name: 'Project Outcomes',
         routerPath: '/service-details'
     }
 ];
@@ -98,10 +98,7 @@ const Miscellaneous = [
     }, {
         name: 'FAQ',
         routerPath: '/faq'
-    }, {
-        name: '404 Error',
-        routerPath: '/error'
-    }, 
+    }
 ];
 
 const ThemeMainMenu = () => {

@@ -16,7 +16,7 @@ const ServicesTwo = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Service Two || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
+                    <title>Performance Metrics || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 
@@ -59,7 +59,7 @@ const ServicesTwo = () => {
                     <div className="container">
                         <div className="title-style-three text-center" data-aos="fade-up">
                             <div className="sc-title">Testimonials</div>
-                            <h2 className="main-title">Trsuted by <span>Clients</span>
+                            <h2 className="main-title">Trusted by <span>Clients</span>
                             </h2>
                         </div>
                         {/* /.title-style-three */}

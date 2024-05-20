@@ -32,7 +32,7 @@ const FAQ = () => {
                                 <div className="col-xl-4 col-lg-3">
                                     <ul className="faq-list-item style-none md-mb-60">
                                         <li className="active">
-                                            <a href="#">1. <span>Makreting</span>
+                                            <a href="#">1. <span>Marketing</span>
                                             </a>
                                         </li>
                                         <li>

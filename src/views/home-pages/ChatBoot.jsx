@@ -215,7 +215,7 @@ const ChatBoot = () => {
                     <div className="container">
                         <div className="title-style-one text-center" data-aos="fade-up">
                             <div className="sc-title-four">FEEDBACK</div>
-                            <h2 className="main-title">Trsuted by Clients</h2>
+                            <h2 className="main-title">Trusted by Clients</h2>
                         </div>
                         {/* /.title-style-one */}
                     </div>

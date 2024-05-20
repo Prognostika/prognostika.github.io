@@ -32,7 +32,7 @@ const OurPricing = () => {
                         <div className="row">
                             <div className="col-xxl-7 col-xl-8 col-lg-7 col-md-9 m-auto">
                                 <div className="title-style-one text-center">
-                                    <h2 className="main-title">Solo, Agency or Team? We’ve got you Covered</h2>
+                                    <h2 className="main-title">Scalable Pricing for All Business Needs</h2>
                                 </div>
                                 {/* /.title-style-one */}
                             </div>
@@ -43,7 +43,8 @@ const OurPricing = () => {
                         <div className="container">
                             <PricingTab />
                             {/* /.tab-content */}
-                            <div className="msg-note mt-80 lg-mt-50" data-aos="fade-up">If you Need any Custom or others Pricing System. <br/> Please <a href="contact-us.html">Send Message</a>
+                            <div className="msg-note mt-80 lg-mt-50" data-aos="fade-up">
+                                Need a Custom Pricing Plan? <br/> Please <a href="contact-us.html">Send Message</a>
                             </div>
                         </div>
                     </div>
@@ -71,8 +72,8 @@ const OurPricing = () => {
                             </div>
                             <div className="row">
                                 <div className="col-xxl-5 col-xl-6 col-lg-7 m-auto">
-                                    <p className="info mt-75 lg-mt-50" data-aos="fade-up">We've done it carefully
-                                        and simply. Combined with the ingredients makes for beautiful landings.</p>
+                                    <p className="info mt-75 lg-mt-50" data-aos="fade-up">
+                                        Our pricing plans are carefully crafted to meet diverse needs and ensure excellent value.</p>
                                 </div>
                             </div>
                         </div>

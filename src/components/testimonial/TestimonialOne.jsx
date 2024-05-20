@@ -7,36 +7,32 @@ const TestimonialContent = [
     {
         logo: 'Plogo-1',
         icon: 'icon_05',
-        desc: `Certainly from my perspective quis been a great success with due WP giving us
-        that enterprises level assured quality.`,
-        text: 'Qulaity & Cost:',
+        desc: `Prognostika's predictive analytics have been a game-changer for us, reducing our data loss incidents significantly.`,
+        text: 'Reliability & Efficiency:',
         price: '5.00',
         logo2: 'Plogo-5',
     },
     {
         logo: 'Plogo-2',
         icon: 'icon_05',
-        desc: `Certainly from my perspective quis been a great success with due WP giving us
-        that enterprises level assured quality.`,
-        text: 'Qulaity & Cost:',
+        desc: `The proactive maintenance solutions have greatly minimized our downtime, ensuring continuous operation.`,
+        text: 'Uptime & Maintenance:',
         price: '35.00',
         logo2: 'Plogo-5',
     },
     {
         logo: 'Plogo-3',
         icon: 'icon_05',
-        desc: `Certainly from my perspective quis been a great success with due WP giving us
-        that enterprises level assured quality.`,
-        text: 'Qulaity & Cost:',
+        desc: `The integration was seamless, and the improvement in our data management efficiency has been remarkable.`,
+        text: 'Integration & Performance:',
         price: '19.00',
         logo2: 'Plogo-5',
     },
     {
         logo: 'Plogo-4',
         icon: 'icon_05',
-        desc: `Certainly from my perspective quis been a great success with due WP giving us
-        that enterprises level assured quality.`,
-        text: 'Qulaity & Cost:',
+        desc: `We have seen a substantial increase in our system's reliability thanks to Prognostika's advanced technology.`,
+        text: 'System Reliability:',
         price: '15.00',
         logo2: 'Plogo-5',
     },
@@ -94,8 +90,7 @@ const TestimonialOne = () => {
                             <img src={`images/icon/${val.icon}.svg`} alt="" width={50}/>
                         </div>
                         {/* /.top-header */}
-                        <p>Certainly from my perspective quis been a great success with due WP giving us
-                            that enterprises level assured quality.</p>
+                        <p>{val.desc}</p>
                         <div className="d-flex align-items-center justify-content-between">
                             <div className="cost">
                                 <span>{val.text}</span> {val.price}</div>

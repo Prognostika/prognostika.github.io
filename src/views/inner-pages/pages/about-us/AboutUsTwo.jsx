@@ -115,7 +115,7 @@ const AboutUsTwo = () => {
                     <div className="container">
                         <div className="title-style-three text-center" data-aos="fade-up">
                             <div className="sc-title">Testimonials</div>
-                            <h2 className="main-title">Trsuted by <span>Clients</span>
+                            <h2 className="main-title">Trusted by <span>Clients</span>
                             </h2>
                         </div>
                         {/* /.title-style-three */}

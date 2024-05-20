@@ -21,7 +21,7 @@ const Testimonial = () => {
                 <TopNavFour/> {/* theme-menu-four */}
 
                 <div className="theme-inner-banner">
-                    <InnerBanner intro="Client Testimonials" currpage="Testimonial"/>
+                    <InnerBanner intro="Testimonials" currpage="Testimonial"/>
                     <img src="images/shape/shape_38.svg" alt="" className="shapes shape-one"/>
                     <img src="images/shape/shape_39.svg" alt="" className="shapes shape-two"/>
                 </div>

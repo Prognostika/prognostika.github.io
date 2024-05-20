@@ -47,15 +47,15 @@ const AboutMenu =[
 
 const ServiceMenu =[
   {
-    name: 'Service One',
+    name: 'Key Benefits',
     routerPath: '/service-one'
   },
   {
-    name: 'Service Two',
+    name: 'Performance Metrics',
     routerPath: '/service-two'
   },
   {
-    name: 'Service Details',
+    name: 'Project Outcomes',
     routerPath: '/service-details'
   }
 ];
@@ -193,11 +193,6 @@ const MobileMenu = () => {
                               <MenuItem>
                                 {""}
                                   <Link to="/faq">FAQ</Link>
-                              </MenuItem>
-
-                              <MenuItem>
-                                {""}
-                                  <Link to="/error">404 Error</Link>
                               </MenuItem>
                             </SubMenu>
 

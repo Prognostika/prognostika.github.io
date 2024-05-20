@@ -7,21 +7,21 @@ const SliderThree = [
     {
         img: 'img_05',
         icon: 'icon_15',
-        desc: `Certainly from my perspective been great success with lore giving that enterprises level magna assured quality due issue there live the blind texts separated.`,
-        name: 'Martin Jonas',
-        desig: 'Head of marketing, Inter inc.'
+        desc: `Designing algorithms for Prognostika has been rewarding. Our models greatly improve hard drive failure predictions, enhancing proactive maintenance.`,
+        name: 'Phill Weston',
+        desig: 'Machine Learning Developer, Prognostika Project.'
     }, {
         img: 'img_06',
         icon: 'icon_15',
-        desc: `Having a home based business is a wonderful asset to your life. The problem still stands it comes time advertise your business for a cheap cost you have looked.`,
-        name: 'Carolyna Tylor',
-        desig: 'Senior Developer, Sinco inc.'
+        desc: `Developing backend services for Prognostika has been exciting. We ensure seamless data integration and real-time analysis, boosting system reliability.`,
+        name: 'iPapaw Cola',
+        desig: 'Backend Service Developer, Prognostika Project.'
     }, {
         img: 'img_07',
         icon: 'icon_15',
-        desc: `It’s a great exprience to work with Sinco. They’r vey humble and expert & the service has been excellent. The author is very quick and nice when it comes to support.`,
-        name: 'Rebecca Jones',
-        desig: 'Senior UX Designer, Hamina_Themes.'
+        desc: `As a data scientist, I’ve seen how our data analytics transform hard drive health monitoring. We’ve achieved high fault detection and low false alarms.`,
+        name: 'Tommy Vercetti',
+        desig: 'Data Scientist, Prognostika Project.'
     }
 ]
 

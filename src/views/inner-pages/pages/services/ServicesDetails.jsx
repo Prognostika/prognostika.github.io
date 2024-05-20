@@ -15,7 +15,7 @@ const ServicesDetails = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Service Details || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
+                    <title>Project Outcomes || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 
@@ -127,22 +127,22 @@ const ServicesDetails = () => {
                                     <div className="service-category mb-40">
                                         <ul className="style-none">
                                             <li className="current-page">
+                                                <a href="#">Predictive Maintenance</a>
+                                            </li>
+                                            <li>
                                                 <a href="#">Machine Learning</a>
                                             </li>
                                             <li>
-                                                <a href="#">Big Data Services</a>
+                                                <a href="#">Data Analysis</a>
                                             </li>
                                             <li>
-                                                <a href="#">Chatboot</a>
+                                                <a href="#">Time Series Analysis</a>
                                             </li>
                                             <li>
-                                                <a href="#">User Analysis</a>
+                                                <a href="#">Failure Prediction</a>
                                             </li>
                                             <li>
-                                                <a href="#">Artificial</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Intelligence</a>
+                                                <a href="#">Proactive Maintenance</a>
                                             </li>
                                         </ul>
                                     </div>

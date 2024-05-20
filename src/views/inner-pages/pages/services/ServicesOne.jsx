@@ -16,7 +16,7 @@ const ServicesOne = () => {
         <Fragment>
             <div className="main-page-wrapper">
                 <Helmet>
-                    <title>Service One || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
+                    <title>Key Benefits || Prognostika - The 1st AI-Powered Hard Drive Health Prediction System</title>
                 </Helmet>
                 {/* helmet end */}
 

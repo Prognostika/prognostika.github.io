@@ -4,45 +4,43 @@ import { Link } from 'react-router-dom';
 const TwentyFourContent = [
     {
         icon: 'icon_35',
-        title: 'Health Care',
-        desc: `Convert data noise to intelligent insights for competitive differentiation.`,
+        title: 'Health Monitoring',
+        desc: `Transform raw SMART data into actionable insights for proactive maintenance.`,
         arrow: 'icon_13',
         fadeUp: 'fade-up',
         datadelay: ''
     }, {
         icon: 'icon_08',
-        title: 'Predictive Analytics',
-        desc: `Convert data noise to intelligent insights for competitive differentiation.`,
+        title: 'Predictive Maintenance',
+        desc: `Utilize machine learning to forecast hard drive failures and reduce downtime.`,
         arrow: 'icon_13',
         fadeUp: 'fade-up',
         datadelay: '100'
     }, {
         icon: 'icon_09',
         title: 'Data Engineers',
-        desc: `Stay ahead of disruption &amp; exceed customer expectation by implementing
-        predictive analytics solutions.`,
+        desc: `Stay ahead by implementing predictive models that exceed reliability expectations.`,
         arrow: 'icon_13',
         fadeUp: 'fade-up',
         datadelay: '200'
     }, {
         icon: 'icon_10',
         title: 'Deep Learning',
-        desc: `Access tools for deep learning, cloud computing and any scale.`,
+        desc: `Access advanced tools for deep learning and scalable cloud computing solutions.`,
         arrow: 'icon_13',
         fadeUp: 'fade-up',
         datadelay: '100'
     }, {
         icon: 'icon_11',
-        title: 'Data Mining',
-        desc: `You can discover hidden opportunities collecting, analyzing or explaining
-        your data in a different way..`,
+        title: 'SMART Data Analysis',
+        desc: `Discover hidden patterns in SMART data to improve hard drive health predictions.`,
         arrow: 'icon_13',
         fadeUp: 'fade-up',
         datadelay: '200'
     }, {
         icon: 'icon_12',
         title: 'Statistical Modeling',
-        desc: `Offer future-ready business applications that can learn &amp; adjust with time.`,
+        desc: `Deploy advanced models that learn and adapt to changing data for better forecasts.`,
         arrow: 'icon_13',
         fadeUp: 'fade-up',
         datadelay: '300'
