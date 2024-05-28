@@ -3,13 +3,12 @@ import React, {Fragment} from 'react';
 const DetailsContent = [
     {
         bigImg: 'img_09',
-        name: 'annatul Ferdaus',
-        desig: 'Senior Product Designer',
+        name: 'Phill Weston',
+        desig: 'Product Designer',
         title: 'ABOUT ME',
-        desc: `Lorem ipsum dolor amet, consetre adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dole magna aliqua. Ut enim`,
+        desc: `With a deep interest in Control Theory and Aircraft Systems, the work includes advanced UAV projects and innovative AI-driven hard drive failure prediction systems, blending blockchain technology for enhanced security and reliability.`,
         title2: 'Experties',
-        desc2: `Lorem ipsum dolor amet, consetre adipiscing elit, sed do eiusmod tempor incididunt`,
+        desc2: `Specialized in UAV control algorithms, predictive maintenance AI, and blockchain applications, I focus on creating robust and innovative technology solutions in electronic information engineering.`,
         title3: 'FOLLOW & CONTACT',
         social: [
             {
@@ -17,10 +16,10 @@ const DetailsContent = [
                 link: 'https://www.facebook.com/'
             }, {
                 icon: 'fab fa-twitter',
-                link: 'https://twitter.com/'
+                link: 'https://twitter.com/Phill6587'
             }, {
-                icon: 'fab fa-dribbble',
-                link: 'https://dribbble.com/'
+                icon: 'fab fa-telegram',
+                link: 'https://t.me/phillweston'
             }, {
                 icon: 'far fa-envelope',
                 link: 'https://mail.google.com/'

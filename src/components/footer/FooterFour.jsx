@@ -33,35 +33,35 @@ const PageContent = [
 ];
 const ServiceContent = [
     {
-        name: 'Artificial Intelligence',
+        name: 'Key Benefits',
+        routerPath: '/service-one'
+    }, {
+        name: 'Performance Metrics',
+        routerPath: '/service-two'
+    }, {
+        name: 'Project Outcomes',
         routerPath: '/service-details'
     }, {
-        name: 'Data Analytics',
-        routerPath: '/service-details'
+        name: 'Testimonials',
+        routerPath: '/testimonial'
     }, {
-        name: 'Data Visualization',
-        routerPath: '/service-details'
-    }, {
-        name: 'Deep Learning',
-        routerPath: '/service-details'
-    }, {
-        name: 'Statistical Modeling',
-        routerPath: '/service-details'
+        name: 'Questions & Answers',
+        routerPath: '/faq'
     }
 ];
 const LegalContent = [
     {
         name: 'Terms of use',
-        routerPath: '/faq'
+        routerPath: '/'
     }, {
-        name: 'Terms &amp; conditions',
-        routerPath: '/faq'
+        name: 'Terms & conditions',
+        routerPath: '/'
     }, {
         name: 'Privacy policy',
-        routerPath: '/faq'
+        routerPath: '/'
     }, {
         name: 'Cookie policy',
-        routerPath: '/faq'
+        routerPath: '/'
     }
 ];
 
